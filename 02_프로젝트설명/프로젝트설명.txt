@@ -1,0 +1,9 @@
+0. 서버 설정 : https://ice-espresso.tistory.com/2 참조
+
+db테이블 생성 : '01_dp_table구조 및 명령어모음' 폴더에있는 쿼리문 모두 실행 후 커밋
+
+서버 가동방법 : sts 프포젝트 임포트 - ctrl+f11서버 가동
+
+목록보기 : CircleScanner_2.3 ctrl+f11실행 또는
+	http://localhost:8090/CircleScanner/  으로 요청
+이후 PPT 참조
